@@ -1,7 +1,7 @@
 {
-  "name": "passport-openidconnect",
+  "name": "passport-vivokey",
   "version": "0.0.2",
-  "description": "OpenID Connect authentication strategy for Passport.",
+  "description": "Vivokey authentication strategy for Passport.",
   "keywords": [
     "passport",
     "openid",
@@ -9,19 +9,18 @@
     "auth",
     "authn",
     "authentication",
-    "identity"
+    "identity",
+    "Vivokey"
   ],
   "author": {
-    "name": "Jared Hanson",
-    "email": "jaredhanson@gmail.com",
-    "url": "http://www.jaredhanson.net/"
+    "name": "thunderblaster"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jaredhanson/passport-openidconnect.git"
+    "url": "git://github.com/thunderblaster/passport-vivokey.git"
   },
   "bugs": {
-    "url": "http://github.com/jaredhanson/passport-openidconnect/issues"
+    "url": "http://github.com/thunderblaster/passport-vivokey/issues"
   },
   "license": "MIT",
   "licenses": [
